@@ -51,7 +51,7 @@ var picasabadge = function(){
 
             loadingText: 'Loading...',
 
-            username: 'salexsorin'
+            username: 'lanorise333'
         };
 
         /* privates vars */
